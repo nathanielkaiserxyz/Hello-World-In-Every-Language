@@ -8,7 +8,7 @@
  </picture>
 </a>
 
-*~Feel to add pull requests or issues and contribute to this repository.*
+*~Feel to add pull requests or issues and contribute to this repository, though i do advise you can just help on "leachim6's" repo*
 
 ## ⚙️ Setup
 
