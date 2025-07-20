@@ -9,7 +9,7 @@
 </a>
 
 ## ⚙️ Setup
-
+*~Feel to add pull requests or issues and contribute to this repository.*
 Want to clone or fork & mess with it? Be my guest:
 
 ```bash
